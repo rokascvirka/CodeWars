@@ -19,17 +19,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pernicious Numbers", "Perni
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cats and shelves", "How Green Is My Valley\Cats and shelves.csproj", "{4E1FF063-262F-4FF0-BB59-B5C67FA12705}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number of Rectangles in a Grid", "Number of Rectangles in a Grid\Number of Rectangles in a Grid.csproj", "{3DD51564-722B-477C-839B-8D6660FDFE5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number of Rectangles in a Grid", "Number of Rectangles in a Grid\Number of Rectangles in a Grid.csproj", "{3DD51564-722B-477C-839B-8D6660FDFE5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product Of Maximums Of Array (Array Series #2)", "Product Of Maximums Of Array (Array Series #2)\Product Of Maximums Of Array (Array Series #2).csproj", "{776A4143-09E1-47DE-9E83-76463C7626CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Product Of Maximums Of Array (Array Series #2)", "Product Of Maximums Of Array (Array Series #2)\Product Of Maximums Of Array (Array Series #2).csproj", "{776A4143-09E1-47DE-9E83-76463C7626CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Which section did you scroll to", "Which section did you scroll to\Which section did you scroll to.csproj", "{4A777307-0EA9-45ED-AC88-86DAE5EE3DB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Which section did you scroll to", "Which section did you scroll to\Which section did you scroll to.csproj", "{4A777307-0EA9-45ED-AC88-86DAE5EE3DB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Love vs friendship", "Alphabetical Addition\Love vs friendship.csproj", "{81C4C2D3-5E18-4A70-9307-69BCF47EB7E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Love vs friendship", "Alphabetical Addition\Love vs friendship.csproj", "{81C4C2D3-5E18-4A70-9307-69BCF47EB7E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Are the numbers in order", "Are the numbers in order\Are the numbers in order.csproj", "{FB961A35-C450-4C4E-8F73-5E49D08D1FAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Are the numbers in order", "Are the numbers in order\Are the numbers in order.csproj", "{FB961A35-C450-4C4E-8F73-5E49D08D1FAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of a sequence", "Sum of a sequence\Sum of a sequence.csproj", "{CA76E12A-1AE0-4C0B-B1DB-A578EC6126DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of a sequence", "Sum of a sequence\Sum of a sequence.csproj", "{CA76E12A-1AE0-4C0B-B1DB-A578EC6126DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Fun #199 Pass The Bill", "Simple Fun #199 Pass The Bill\Simple Fun #199 Pass The Bill.csproj", "{3C5BBFA9-B26B-473F-88DB-338FDEB75E88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -85,6 +87,10 @@ Global
 		{CA76E12A-1AE0-4C0B-B1DB-A578EC6126DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA76E12A-1AE0-4C0B-B1DB-A578EC6126DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA76E12A-1AE0-4C0B-B1DB-A578EC6126DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C5BBFA9-B26B-473F-88DB-338FDEB75E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C5BBFA9-B26B-473F-88DB-338FDEB75E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C5BBFA9-B26B-473F-88DB-338FDEB75E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C5BBFA9-B26B-473F-88DB-338FDEB75E88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -103,6 +109,7 @@ Global
 		{81C4C2D3-5E18-4A70-9307-69BCF47EB7E6} = {1B07C0A3-E2DF-45E0-9433-062120E285CC}
 		{FB961A35-C450-4C4E-8F73-5E49D08D1FAC} = {1B07C0A3-E2DF-45E0-9433-062120E285CC}
 		{CA76E12A-1AE0-4C0B-B1DB-A578EC6126DC} = {1B07C0A3-E2DF-45E0-9433-062120E285CC}
+		{3C5BBFA9-B26B-473F-88DB-338FDEB75E88} = {1B07C0A3-E2DF-45E0-9433-062120E285CC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {69CB2B85-4FB2-4497-9280-9F5A461DC6EF}
