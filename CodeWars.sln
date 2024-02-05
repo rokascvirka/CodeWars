@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of a sequence", "Sum of
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Fun #199 Pass The Bill", "Simple Fun #199 Pass The Bill\Simple Fun #199 Pass The Bill.csproj", "{3C5BBFA9-B26B-473F-88DB-338FDEB75E88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smallest value of an array", "Smallest value of an array\Smallest value of an array.csproj", "{5DE29CA2-3312-4A4B-9C78-50AE4F1A4681}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,10 @@ Global
 		{3C5BBFA9-B26B-473F-88DB-338FDEB75E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C5BBFA9-B26B-473F-88DB-338FDEB75E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C5BBFA9-B26B-473F-88DB-338FDEB75E88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DE29CA2-3312-4A4B-9C78-50AE4F1A4681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE29CA2-3312-4A4B-9C78-50AE4F1A4681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE29CA2-3312-4A4B-9C78-50AE4F1A4681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE29CA2-3312-4A4B-9C78-50AE4F1A4681}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -110,6 +116,7 @@ Global
 		{FB961A35-C450-4C4E-8F73-5E49D08D1FAC} = {1B07C0A3-E2DF-45E0-9433-062120E285CC}
 		{CA76E12A-1AE0-4C0B-B1DB-A578EC6126DC} = {1B07C0A3-E2DF-45E0-9433-062120E285CC}
 		{3C5BBFA9-B26B-473F-88DB-338FDEB75E88} = {1B07C0A3-E2DF-45E0-9433-062120E285CC}
+		{5DE29CA2-3312-4A4B-9C78-50AE4F1A4681} = {1B07C0A3-E2DF-45E0-9433-062120E285CC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {69CB2B85-4FB2-4497-9280-9F5A461DC6EF}
