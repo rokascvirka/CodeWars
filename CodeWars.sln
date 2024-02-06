@@ -31,11 +31,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Are the numbers in order", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of a sequence", "Sum of a sequence\Sum of a sequence.csproj", "{CA76E12A-1AE0-4C0B-B1DB-A578EC6126DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Fun #199 Pass The Bill", "Simple Fun #199 Pass The Bill\Simple Fun #199 Pass The Bill.csproj", "{3C5BBFA9-B26B-473F-88DB-338FDEB75E88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple Fun #199 Pass The Bill", "Simple Fun #199 Pass The Bill\Simple Fun #199 Pass The Bill.csproj", "{3C5BBFA9-B26B-473F-88DB-338FDEB75E88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smallest value of an array", "Smallest value of an array\Smallest value of an array.csproj", "{5DE29CA2-3312-4A4B-9C78-50AE4F1A4681}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smallest value of an array", "Smallest value of an array\Smallest value of an array.csproj", "{5DE29CA2-3312-4A4B-9C78-50AE4F1A4681}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Candy problem", "Candy problem\Candy problem.csproj", "{2E9A93F4-0951-4AF5-9C90-5EE0F0A39A8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Candy problem", "Candy problem\Candy problem.csproj", "{2E9A93F4-0951-4AF5-9C90-5EE0F0A39A8E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of array singles", "Simple Fun #372 Lose Or Earn\Sum of array singles.csproj", "{31D76C0B-672D-49BE-BE81-5476112C9288}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the middle element", "Find the middle element\Find the middle element.csproj", "{B0DD7DF2-63D8-47EC-ADAB-433E172CC37F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -103,6 +107,14 @@ Global
 		{2E9A93F4-0951-4AF5-9C90-5EE0F0A39A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E9A93F4-0951-4AF5-9C90-5EE0F0A39A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E9A93F4-0951-4AF5-9C90-5EE0F0A39A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D76C0B-672D-49BE-BE81-5476112C9288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D76C0B-672D-49BE-BE81-5476112C9288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D76C0B-672D-49BE-BE81-5476112C9288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D76C0B-672D-49BE-BE81-5476112C9288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0DD7DF2-63D8-47EC-ADAB-433E172CC37F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DD7DF2-63D8-47EC-ADAB-433E172CC37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DD7DF2-63D8-47EC-ADAB-433E172CC37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DD7DF2-63D8-47EC-ADAB-433E172CC37F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -124,6 +136,8 @@ Global
 		{3C5BBFA9-B26B-473F-88DB-338FDEB75E88} = {1B07C0A3-E2DF-45E0-9433-062120E285CC}
 		{5DE29CA2-3312-4A4B-9C78-50AE4F1A4681} = {1B07C0A3-E2DF-45E0-9433-062120E285CC}
 		{2E9A93F4-0951-4AF5-9C90-5EE0F0A39A8E} = {1B07C0A3-E2DF-45E0-9433-062120E285CC}
+		{31D76C0B-672D-49BE-BE81-5476112C9288} = {1B07C0A3-E2DF-45E0-9433-062120E285CC}
+		{B0DD7DF2-63D8-47EC-ADAB-433E172CC37F} = {1B07C0A3-E2DF-45E0-9433-062120E285CC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {69CB2B85-4FB2-4497-9280-9F5A461DC6EF}
