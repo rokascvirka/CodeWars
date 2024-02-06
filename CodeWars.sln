@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the middle element", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suzuki needs help lining up his students", "Suzuki needs help lining up his students\Suzuki needs help lining up his students.csproj", "{9DE3FCC8-5840-4C69-96B0-4BDD7D3AD4D6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6Kyu", "6Kyu", "{F046AE89-1E7A-452E-B0E3-7278DD96D3A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dead Ants", "Spelling Bee\Dead Ants.csproj", "{DCEDCBF3-EC81-4B6A-8E8A-C7DDCEE1F870}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +125,10 @@ Global
 		{9DE3FCC8-5840-4C69-96B0-4BDD7D3AD4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DE3FCC8-5840-4C69-96B0-4BDD7D3AD4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DE3FCC8-5840-4C69-96B0-4BDD7D3AD4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCEDCBF3-EC81-4B6A-8E8A-C7DDCEE1F870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCEDCBF3-EC81-4B6A-8E8A-C7DDCEE1F870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCEDCBF3-EC81-4B6A-8E8A-C7DDCEE1F870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCEDCBF3-EC81-4B6A-8E8A-C7DDCEE1F870}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -145,6 +153,8 @@ Global
 		{31D76C0B-672D-49BE-BE81-5476112C9288} = {1B07C0A3-E2DF-45E0-9433-062120E285CC}
 		{B0DD7DF2-63D8-47EC-ADAB-433E172CC37F} = {1B07C0A3-E2DF-45E0-9433-062120E285CC}
 		{9DE3FCC8-5840-4C69-96B0-4BDD7D3AD4D6} = {1B07C0A3-E2DF-45E0-9433-062120E285CC}
+		{F046AE89-1E7A-452E-B0E3-7278DD96D3A4} = {A77CE877-8CCC-4173-9A1B-0F0DB8144334}
+		{DCEDCBF3-EC81-4B6A-8E8A-C7DDCEE1F870} = {F046AE89-1E7A-452E-B0E3-7278DD96D3A4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {69CB2B85-4FB2-4497-9280-9F5A461DC6EF}
